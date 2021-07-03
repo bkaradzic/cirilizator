@@ -167,6 +167,7 @@ chrome.runtime.onInstalled.addListener(function () {
             'rs.n1info.com',
             'rtvnp.rs',
             'sandzakpress.net',
+            'slobodaonline.rs',
             'sport.blic.rs',
             'sportklub.rs',
             'sportskastranajuga.com',
