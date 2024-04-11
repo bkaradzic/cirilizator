@@ -179,6 +179,7 @@ chrome.runtime.onInstalled.addListener(function () {
             'novaekonomija.rs',
             'novidani.com',
             'novimagazin.rs',
+            'nsuzivo.rs',
             'nultatacka.rs',
             'objektiv.rs',
             'pcpress.rs',
